@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="0"
         android:fontFamily="@font/black_ops_one"
-        android:text="Assignment 1 - [3D Orientation Detection]"
+        android:text="3D Orientation Detection"
         android:textAlignment="center"
         android:textColor="?attr/colorControlActivated"
         android:textSize="18sp" />
@@ -23,7 +23,7 @@
         android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="CMSC - 628 : MOBILE COMPUTING"
+        android:text="MOBILE COMPUTING"
         android:textAlignment="center"
         android:textSize="18sp" />
 
@@ -32,7 +32,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:fontFamily="@font/bilbo_swash_caps"
-        android:text="Name : Pranav Ganore    |    Campus ID : YI73732"
+        android:text="Name : Pranav Ganore    |    Campus ID : xxxxxxx"
         android:textAlignment="center"
         android:textColor="?attr/actionMenuTextColor"
         android:textSize="18sp"
@@ -43,7 +43,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0"
-        android:text="~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" />
+        android:text="~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+        android:textAlignment="center" />
 
     <ScrollView
         android:layout_width="match_parent"
